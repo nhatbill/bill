@@ -1,0 +1,8 @@
+{
+  "name": "FireSafe Connect - PCCC Intelligence",
+  "description": "Hệ thống cung cấp thông tin khẩn cấp cho lực lượng PCCC, cho phép người dân số hóa sơ đồ nhà, vị trí người cần hỗ trợ và các khu vực nguy hiểm.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
